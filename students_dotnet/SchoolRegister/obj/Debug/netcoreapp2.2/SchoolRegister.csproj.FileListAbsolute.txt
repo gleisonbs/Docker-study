@@ -1,0 +1,14 @@
+/home/cafeina/source codes/docker-study/students_dotnet/SchoolRegister/obj/Debug/netcoreapp2.2/SchoolRegister.csprojAssemblyReference.cache
+/home/cafeina/source codes/docker-study/students_dotnet/SchoolRegister/obj/Debug/netcoreapp2.2/SchoolRegister.csproj.CoreCompileInputs.cache
+/home/cafeina/source codes/docker-study/students_dotnet/SchoolRegister/obj/Debug/netcoreapp2.2/SchoolRegister.RazorAssemblyInfo.cache
+/home/cafeina/source codes/docker-study/students_dotnet/SchoolRegister/obj/Debug/netcoreapp2.2/SchoolRegister.RazorAssemblyInfo.cs
+/home/cafeina/source codes/docker-study/students_dotnet/SchoolRegister/obj/Debug/netcoreapp2.2/SchoolRegister.AssemblyInfoInputs.cache
+/home/cafeina/source codes/docker-study/students_dotnet/SchoolRegister/obj/Debug/netcoreapp2.2/SchoolRegister.AssemblyInfo.cs
+/home/cafeina/source codes/docker-study/students_dotnet/SchoolRegister/bin/Debug/netcoreapp2.2/SchoolRegister.deps.json
+/home/cafeina/source codes/docker-study/students_dotnet/SchoolRegister/bin/Debug/netcoreapp2.2/SchoolRegister.runtimeconfig.json
+/home/cafeina/source codes/docker-study/students_dotnet/SchoolRegister/bin/Debug/netcoreapp2.2/SchoolRegister.runtimeconfig.dev.json
+/home/cafeina/source codes/docker-study/students_dotnet/SchoolRegister/bin/Debug/netcoreapp2.2/SchoolRegister.dll
+/home/cafeina/source codes/docker-study/students_dotnet/SchoolRegister/bin/Debug/netcoreapp2.2/SchoolRegister.pdb
+/home/cafeina/source codes/docker-study/students_dotnet/SchoolRegister/obj/Debug/netcoreapp2.2/SchoolRegister.RazorTargetAssemblyInfo.cache
+/home/cafeina/source codes/docker-study/students_dotnet/SchoolRegister/obj/Debug/netcoreapp2.2/SchoolRegister.dll
+/home/cafeina/source codes/docker-study/students_dotnet/SchoolRegister/obj/Debug/netcoreapp2.2/SchoolRegister.pdb
